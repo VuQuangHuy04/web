@@ -1,0 +1,46 @@
+body{
+      background: linear-gradient(45deg , rgb(204, 91, 204), rgb(122, 122, 233));
+}
+.ct {
+    background-color: rgb(191, 214, 255); 
+    width: 300px; 
+    margin: 120px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(136, 135, 135);
+}
+.avatar {
+    border-radius: 50%;
+    border: 3px solid white;
+    margin: 20px 80px 0px 80px;
+}
+.ct h1{
+    color: rgb(209, 57, 57);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 70px 0px 70px  ;
+    font-size: 23px;
+}
+.ct h3{
+     color: rgb(45, 29, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 80px 0px 80px  ;
+    font-size: 14px;
+}
+.ct p{
+    margin: 5% 10% 2% 10%;
+    color: rgba(17, 14, 14, 0.795);
+}
+.ct a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  background-color: gray;
+  color: white;
+  text-decoration: none;
+  border: 2px solid white;
+  margin: 20px 30px 30px 60px;
+  font-weight: bold;
+  font-size: 18px;
+}
